@@ -1,6 +1,6 @@
 # Práctica-01-04-daw
 
-## Intancia Ubuntu.
+## Instancia Ubuntu.
 
 Primeramente tenemos que crear una instancia para realizar esta actividad, la llamo Ubuntu:
 
